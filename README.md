@@ -41,7 +41,7 @@ After this course, you should be able to...
 
 ## Course Work and Evaluation
 
-This course is divided into [ten main modules](Overview.md), each addressing a major topic in object-oriented software design. Modules are spread over two lectures and involve mandatory reading and practice exercises. To be able to follow the pace of the course, the reading must be done before the module lectures and the exercises must be completed within one week of the end of the second lecture of the module.
+This course is divided into [ten main modules](https://github.com/prmr/SoftwareDesign/blob/v0.1/Overview.md), each addressing a major topic in object-oriented software design. Modules are spread over two lectures and involve mandatory reading and practice exercises. To be able to follow the pace of the course, the reading must be done before the module lectures and the exercises must be completed within one week of the end of the second lecture of the module.
 
 It's very hard to get good at anything without practice, and software design is no exception. *Practice exercises* are organized in terms of the module structure and are available on their individual pages. The exercises are designed to help you learn as effectively as possible: you can do them at your own pace, individually or in a group, repeat what's necessary, seek advice from anyone, and make mistakes and learn from them. For these and other reasons, they would be a poor choice for *testing* your knowledge of the material, so they are not graded. Instead, your practical skills will be evaluated through *lab tests*.
 
@@ -80,33 +80,33 @@ An overview of the contents can be found [on a separate page](Overview.md)
 
 | Lecture | Date | Module |Lab|
 | --- |---|---|---|
-|1	| 5 Jan | [M0 - Preparation](modules/Module-00.md) | |
-|2	| 10 Jan | [M1 - Encapsulation](modules/Module-01.md) | |
-|3	| 12 Jan | [M1 - Encapsulation](modules/Module-01.md) | |
-|4	| 17 Jan | [M2 - Types and Polymorphism](modules/Module-02.md) | |
-|5	| 19 Jan | [M2 - Types and Polymorphism](modules/Module-02.md) | |
-|6	| 24 Jan | [M3 - Object State](modules/Module-03.md) | |
-|7	| 26 Jan | [M3 - Object State](modules/Module-03.md) | |
-|8	| 31 Jan | [M4 - Unit Testing](modules/Module-04.md) | Lab Test 1 (M1-3)|
-|9	| 2 Feb | [M4 - Unit Testing](modules/Module-04.md) | Lab Test 1 (M1-3)|
-|10	| 7 Feb | [M5 - Composition](modules/Module-05.md) | Lab Test 1 (M1-3)|
-|11	| 9 Feb | [M5 - Composition](modules/Module-05.md) | Lab Test 1 (M1-3)|
+|1	| 5 Jan | [M0 - Preparation](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-00.md) | |
+|2	| 10 Jan | [M1 - Encapsulation](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-01.md) | |
+|3	| 12 Jan | [M1 - Encapsulation](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-01.md) | |
+|4	| 17 Jan | [M2 - Types and Polymorphism](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-02.md) | |
+|5	| 19 Jan | [M2 - Types and Polymorphism](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-02.md) | |
+|6	| 24 Jan | [M3 - Object State](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-03.md) | |
+|7	| 26 Jan | [M3 - Object State](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-03.md) | |
+|8	| 31 Jan | [M4 - Unit Testing](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-04.md) | Lab Test 1 (M1-3)|
+|9	| 2 Feb | [M4 - Unit Testing](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-04.md) | Lab Test 1 (M1-3)|
+|10	| 7 Feb | [M5 - Composition](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-05.md) | Lab Test 1 (M1-3)|
+|11	| 9 Feb | [M5 - Composition](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-05.md) | Lab Test 1 (M1-3)|
 |12	| 14 Feb | Review Session | Lab Test 2 (M4-5)|
 |13	| 16 Feb | Midterm 1 | Lab Test 2 (M4-5)|
-|14	| 21 Feb | [M6 - Inversion of Control](modules/Module-06.md) | Lab Test 2 (M4-5)|
-|15	| 23 Feb |[M6 - Inversion of Control](modules/Module-06.md) | Lab Test 2 (M4-5)|
+|14	| 21 Feb | [M6 - Inversion of Control](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-06.md) | Lab Test 2 (M4-5)|
+|15	| 23 Feb |[M6 - Inversion of Control](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-06.md) | Lab Test 2 (M4-5)|
 | 	| 28 Feb | Reading Week | |
 | 	| 2 Mar | Reading Week | |
 |16	| 7 Mar | Review Session | |
 |17	| 9 Mar | Midterm 2 | |
-|18	| 14 Mar | [M6 - M7 - Inheritance](modules/Module-07.md) | |
-|19	| 16 Mar | [M6 - M7 - Inheritance](modules/Module-07.md) | |
-|20	| 21 Mar | [M8 - Design Patterns](modules/Module-08.md) | Lab Test 3 (M6-7)|
-|21	| 23 Mar | [M8 - Design Patterns](modules/Module-08.md) | Lab Test 3 (M6-7)|
-|22	| 28 Mar | [M9 - Concurrency](modules/Module-09.md) | Lab Test 3 (M6-7)|
-|23	| 30 Mar | [M9 - Concurrency](modules/Module-09.md) | Lab Test 3 (M6-7)|
-|24	| 4 Apr | [M10 - Topics in Software Design](modules/Module-10.md) | Lab Test 4 (M8-9)|
-|25	| 6 Apr | [M10 - Topics in Software Design](modules/Module-10.md) | Lab Test 4 (M8-9)|
+|18	| 14 Mar | [M6 - M7 - Inheritance](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-07.md) | |
+|19	| 16 Mar | [M6 - M7 - Inheritance](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-07.md) | |
+|20	| 21 Mar | [M8 - Design Patterns](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-08.md) | Lab Test 3 (M6-7)|
+|21	| 23 Mar | [M8 - Design Patterns](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-08.md) | Lab Test 3 (M6-7)|
+|22	| 28 Mar | [M9 - Concurrency](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-09.md) | Lab Test 3 (M6-7)|
+|23	| 30 Mar | [M9 - Concurrency](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-09.md) | Lab Test 3 (M6-7)|
+|24	| 4 Apr | [M10 - Topics in Software Design](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-10.md) | Lab Test 4 (M8-9)|
+|25	| 6 Apr | [M10 - Topics in Software Design](https://github.com/prmr/SoftwareDesign/blob/v0.1/modules/Module-10.md) | Lab Test 4 (M8-9)|
 |26	| 11 Apr | Review for the Final | Lab Test 4 (M8-9)|
 
 ## Office Hours and Labs Schedule
