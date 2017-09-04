@@ -33,8 +33,8 @@ After this course, you should be able to...
 
 ## Reference Material
 
-* **Course Notes:** [Introduction to Software Design with Java.](https://github.com/prmr/SoftwareDesign/) This textbook-style set of notes is intended to be a 
-one-stop-shop for this course. It is, however, a work in progress. 
+* **Course Notes:** [Introduction to Software Design with Java.](https://github.com/prmr/SoftwareDesign/) This textbook-style set of notes is intended to be a one-stop-shop for this course. It is, however, a work in progress. 
+* **Design Pattern Reference:** [http://java-design-patterns.com/](http://java-design-patterns.com/)
 * **Recommended Textbook:** [Object-oriented Design and Patterns](http://www.bookdepository.com/Object-oriented-Design-Patterns-Cay-Horstmann/9780471744870). Now out of print, this was the former textbook for the course and may provide some useful insights if you can find it. The programming examples will be a bit dated.
 * **Complementary Resource:** [Clean Code: A Handbook of Agile Software Craftmanship. Prentice-Hall, 2008.](http://proquest.safaribooksonline.com/9780136083238?tocview=true). Available on-line from the McGill domain. 
 * **Recommended Reference:** A Java 8 Programming reference of your choice.
