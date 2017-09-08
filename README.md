@@ -113,7 +113,8 @@ TA office hours and labs are in TR 3120.
 
 | Time | TA |
 | --- |---|
-| TBD | TBD | 
+| Monday 4pm | Srinivas | 
+| Thursday 2:45pm | Srinivas |
 
 ## License
 
