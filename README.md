@@ -114,6 +114,10 @@ TA office hours and labs are in TR 3120.
 | Time | TA |
 | --- |---|
 | Monday 4pm | Srinivas | 
+| Tuesday 11am | Mathieu |
+| Wednesday 11am | Paul |
+| Wednesday 12pm | Paul |
+| Wednesday 1pm | Mathieu |
 | Thursday 3pm | Srinivas |
 
 ## License
