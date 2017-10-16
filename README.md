@@ -6,7 +6,7 @@
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
 |**Email:** |For your own protection, I only respond to student inquiries that originate from official McGill email accounts |
 |**Time and place:** |Tuesdays and Thursdays 16:00-17:30 [ENGMC 204](http://maps.mcgill.ca)|
-|**Office hours:** | Instructor: TBD in MC 114N. For TA Office Hours [see below](#office-hours-and-labs-schedule)  |
+|**Office hours:** | Instructor: Tuesday 10am or by appointment in MC 114N. For TA Office Hours [see below](#office-hours-and-labs-schedule)  |
 
 ## Description
 This course provides an in-depth introduction to the discipline of software design, with a focus on object-oriented design. Software design can easily be discounted as a secondary concern when solving small computing problems such as assignments and scripts. However, it assumes a critical role when attempting to build realistic and high-quality software applications. The course 
@@ -113,7 +113,12 @@ TA office hours and labs are in TR 3120.
 
 | Time | TA |
 | --- |---|
-| TBD | TBD | 
+| Monday 4pm | Srinivas | 
+| Tuesday 11am | Mathieu |
+| Wednesday 11am | Paul |
+| Wednesday 12pm | Paul |
+| Wednesday 1pm | Mathieu |
+| Thursday 3pm | Srinivas |
 
 ## License
 
