@@ -88,24 +88,24 @@ These policies are subject to revision at any point during the term.
 |6	| 21 Sep | [M2 - Types and Polymorphism](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-02.md) | |
 |7	| 26 Sep | [M3 - Object State](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-03.md) | |
 |8	| 28 Oct | [M3 - Object State](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-03.md) | |
-|9	|  3 Oct | [M4 - Unit Testing](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-04.md) | Lab Test 1 (M1-3)|
-|10	|  5 Oct | [M4 - Unit Testing](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-04.md) | Lab Test 1 (M1-3)|
-|11	| 10 Oct | Review Session | Lab Test 1 (M1-3)|
-|12	| 12 Oct | Midterm 1 | Lab Test 1 (M1-3)|
-|13	| 17 Oct | [M5 - Composition](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-05.md) | Lab Test 2 (M4-5)|
-|14	| 19 Oct | [M5 - Composition](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-05.md) | Lab Test 2 (M4-5)|
-|15	| 24 Oct | [M6 - Inversion of Control](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-06.md) | Lab Test 2 (M4-5)|
-|16	| 26 Oct | [M6 - Inversion of Control](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-06.md) | Lab Test 2 (M4-5)|
+|9	|  3 Oct | [M4 - Unit Testing](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-04.md) | Lab Test 1 (M1-2)|
+|10	|  5 Oct | [M4 - Unit Testing](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-04.md) | Lab Test 1 (M1-2)|
+|11	| 10 Oct | Review Session | Lab Test 1 (M1-2)|
+|12	| 12 Oct | Midterm 1 | Lab Test 1 (M1-2)|
+|13	| 17 Oct | [M5 - Composition](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-05.md) | Lab Test 2 (M3-4)|
+|14	| 19 Oct | [M5 - Composition](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-05.md) | Lab Test 2 (M3-4)|
+|15	| 24 Oct | [M6 - Inversion of Control](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-06.md) | Lab Test 2 (M3-4)|
+|16	| 26 Oct | [M6 - Inversion of Control](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-06.md) | Lab Test 2 (M3-4)|
 |17	| 31 Oct | Review Session | |
 |18	|  2 Nov | Midterm 2 | |
-|19	|  7 Nov | [M6 - M7 - Inheritance](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-07.md) | Lab Test 3 (M6-7) |
-|20	|  9 Nov | [M6 - M7 - Inheritance](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-07.md) | Lab Test 3 (M6-7) |
-|21 | 14 Nov | [M8 - Design Patterns](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-08.md) | Lab Test 3 (M6-7)|
-|22	| 16 Nov | [M8 - Design Patterns](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-08.md) | Lab Test 3 (M6-7)|
-|23	| 21 Nov | [M9 - Concurrency](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-09.md) | Lab Test 4 (M6-7)|
-|24	| 23 Nov | [M9 - Concurrency](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-09.md) | Lab Test 4 (M6-7)|
-|25	| 28 Nov | [M10 - Topics in Software Design](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-10.md) | Lab Test 4 (M8-9)|
-|26	| 30 Nov | [M10 - Topics in Software Design](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-10.md) | Lab Test 4 (M8-9)|
+|19	|  7 Nov | [M6 - M7 - Inheritance](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-07.md) | Lab Test 3 (M5-6) |
+|20	|  9 Nov | [M6 - M7 - Inheritance](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-07.md) | Lab Test 3 (M5-6) |
+|21 | 14 Nov | [M8 - Design Patterns](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-08.md) | Lab Test 3 (M5-6)|
+|22	| 16 Nov | [M8 - Design Patterns](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-08.md) | Lab Test 3 (M5-6)|
+|23	| 21 Nov | [M9 - Concurrency](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-09.md) | Lab Test 4 (M7-8)|
+|24	| 23 Nov | [M9 - Concurrency](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-09.md) | Lab Test 4 (M7-8)|
+|25	| 28 Nov | [M10 - Topics in Software Design](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-10.md) | Lab Test 4 (M7-8)|
+|26	| 30 Nov | [M10 - Topics in Software Design](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-10.md) | Lab Test 4 (M7-8)|
 
 ## Office Hours and Labs Schedule
 
