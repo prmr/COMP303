@@ -17,13 +17,13 @@ Provides an introduction to software design, with a focus on object-oriented des
 * **Design Techniques:** Class definition, object diagrams, immutable wrappers, reference copying, copy constructors, design by contract, decoupling behavior from implementation, interface-based behavior specification, class diagrams, function objects, iterators, state diagrams, test suite organization, use of test fixtures, testing with stubs, testing private structures, use of test coverage metrics, testing exceptional conditions, sequence diagrams, combining design patterns, inheritance-base reuse, class hierarchy design, adapter inheritance, event handling, GUI design, behavior composition, functions as data sources, interface segregation with first-class functions, pipelining, map–reduce.
 * **Patterns and Antipatterns:** Primitive Obsession*, Inappropriate Intimacy*, Iterator, Strategy, Switch Statement*, Speculative Generality*, Temporary Field*, Long Method*, Null Object, Flyweight, Singleton, Duplicated Code*, God Class*, Message Chain*, Composite, Decorator, Prototype, Command, Template Method, Pairwise Dependencies*, Observer, Visitor. 
 
-### Prerequisites
-The official prerequisites are COMP 206 and COMP 250. However, this course targets students who have reached at least a working level of Java programming fluency. In practice, it is very difficult to learn software design when still getting familiar with basic programming idioms. This means that students registering to take COMP 303 should be able to, with a minimum of hesitation, write Java programs to solve small and well-defined problems, use a revision control system to organize their work, and use a debugger to trace through execution and inspect run-time values. This requirement cannot be neatly captured by any specific combination of courses, but students who feel they could use additional programming experience are encouraged to take COMP 302 before or during the term in which they take COMP 303.
+## Prerequisites
+The official prerequisites are COMP206 and COMP250. However, this assumes active participation in these courses and the accumulation of **a minimum level of Java programming experience**. It is difficult to learn software design while still getting familiar with basic programming idioms. It would be a bit like attempting to study literature in an unfamiliar language. This means that students registering to take COMP 303 should be able to, with a minimum of hesitation, write Java programs to solve small and well-defined problems, use a revision control system to organize their work, and use a debugger to trace through the execution of the code and inspect run-time values. Students who feel they could use additional programming experience are encouraged to take a few more COMP courses or undertake a pratice project or two before taking COMP303.
 
-### Learning Outcomes
+## Learning Outcomes
 After this course, you should be able to... 
 
-* *Name, using the proper terminology:* The important first principles, techniques, and tools of object-oriented software design;
+* *Name, using the proper terminology:* The important principles, techniques, and tools of object-oriented software design;
 * *Describe and explain:* The important principles, techniques, and tools of object-oriented software design;
 * *Apply:* The important principles, techniques, and tools of object-oriented software design to provide effective solutions to realistic design problems;
 * *Evaluate:* The quality of design solutions
