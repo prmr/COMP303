@@ -1,22 +1,20 @@
 # COMP303 - Software Design (Fall 2019)
 
-## Basic Information
+Provides an introduction to software design, with a focus on object-oriented design. 
+
 | |  |
 | --- |---|
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
 |**Time and place:** |Monday and Wednesday 16:00-17:30 [BRONF 151](http://virtualcampustour.mcgill.ca/en/details/20/bronfman-building)|
-|**Office hours:** | Instructor: Wednesday 11am or by appointment in MC 114N. For TA Office Hours [see below](#office-hours-and-labs-schedule)  |
+|**Lectures Recorded?:**|No|
+|**Office hours:** | Instructor: Wednesday 11am or by appointment in MC 114N. For TA Office Hours [see below](#office-hours-and-labs-schedule)|
 
-## Description
-This course provides an in-depth introduction to the discipline of software design, with a focus on object-oriented design. Software design can easily be discounted as a secondary concern when solving small computing problems such as assignments and scripts. However, it assumes a critical role when attempting to build realistic and high-quality software applications. The course 
-combines rigorous foundations (guiding principles, precise terminology, well-defined techniques) with extensive opportunities for the development of practical skills using state-of-the art tools and techniques based on the latest research and practice in software engineering. 
-
-### Sample Course Topics
-* General Design Principles (separation of concerns, encapsulation, substitutablity, interface segregation, etc.);
-* Design patterns and design smells;
-* Design techniques such as Design by Contract and Refactoring;
-* Effective use of programming language mechanisms (exception handling, serialization, concurrency and synchronization, reflection, etc.);
-* Software development tools such as automatic testing tools, coverage analyzers, static checkers. 
+## Course Topics
+* **Concepts and Principles:** Encapsulation, information hiding, abstraction, immutability, interface, reference sharing, escaping references, polymorphism, loose coupling, reusability, extensibility, separation of concerns, interface segregation, concrete and abstract object states, object life cycle, object identity, object equality, object uniqueness, state space minimization, unit testing, regression testing, quality attributes of unit tests, test suites, test coverage, divide and conquer, law of Demeter, code reuse, extensibility, Liskov substitution principle, inversion of control, model–view–controller
+(MVC) decomposition, callback method, behavior parameterization, first-class functions, higher-order functions, functional programming.
+* **Programming Mechanisms:** Typing, enumerated types, scopes, access modifiers, assertions, Java interfaces, interface implementation, null references, final variables, optional types, nested classes, closures, unit testing frameworks, JUnit, metaprogramming, annotations, aggregation, delegation, cloning, inheritance, subtyping, downcasting, object initialization, super calls, overriding, overloading, abstract classes, abstract methods, final classes, final methods, application framework, event loop, graphical user interface (GUI) component graph, functional interfaces, lambda expressions, method references, streams.
+* **Design Techniques:** Class definition, object diagrams, immutable wrappers, reference copying, copy constructors, design by contract, decoupling behavior from implementation, interface-based behavior specification, class diagrams, function objects, iterators, state diagrams, test suite organization, use of test fixtures, testing with stubs, testing private structures, use of test coverage metrics, testing exceptional conditions, sequence diagrams, combining design patterns, inheritance-base reuse, class hierarchy design, adapter inheritance, event handling, GUI design, behavior composition, functions as data sources, interface segregation with first-class functions, pipelining, map–reduce.
+* **Patterns and Antipatterns:** Primitive Obsession*, Inappropriate Intimacy*, Iterator, Strategy, Switch Statement*, Speculative Generality*, Temporary Field*, Long Method*, Null Object, Flyweight, Singleton, Duplicated Code*, God Class*, Message Chain*, Composite, Decorator, Prototype, Command, Template Method, Pairwise Dependencies*, Observer, Visitor. 
 
 ### Prerequisites
 The official prerequisites are COMP 206 and COMP 250. However, this course targets students who have reached at least a working level of Java programming fluency. In practice, it is very difficult to learn software design when still getting familiar with basic programming idioms. This means that students registering to take COMP 303 should be able to, with a minimum of hesitation, write Java programs to solve small and well-defined problems, use a revision control system to organize their work, and use a debugger to trace through execution and inspect run-time values. This requirement cannot be neatly captured by any specific combination of courses, but students who feel they could use additional programming experience are encouraged to take COMP 302 before or during the term in which they take COMP 303.
