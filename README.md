@@ -23,20 +23,17 @@ The official prerequisites are COMP206 and COMP250. However, this assumes active
 ## Learning Outcomes
 After this course, you should be able to... 
 
-* *Name, using the proper terminology:* The important principles, techniques, and tools of object-oriented software design;
-* *Describe and explain:* The important principles, techniques, and tools of object-oriented software design;
-* *Apply:* The important principles, techniques, and tools of object-oriented software design to provide effective solutions to realistic design problems;
+* *Name, using the proper terminology:* The important principles, programming techniques, and tools of object-oriented software design;
+* *Describe and explain:* The important important principles, mechanisms, techniques, and patterns of software design;
+* *Apply:* The important principles, mechanisms, techniques, and patterns of software design to provide effective solutions to realistic design problems;
 * *Evaluate:* The quality of design solutions
-* *Write:* well-designed, error-free, and easily understandable software.
+* *Write:* well-designed, correct, and easily understandable software.
 
 ## Reference Material
 
-* **Course Notes:** [Introduction to Software Design with Java.](https://github.com/prmr/SoftwareDesign/) This textbook-style set of notes is intended to be a one-stop-shop for this course. It is, however, a work in progress. 
-* **Design Pattern Reference:** [http://java-design-patterns.com/](http://java-design-patterns.com/)
-* **Recommended Textbook:** [Object-oriented Design and Patterns](http://www.bookdepository.com/Object-oriented-Design-Patterns-Cay-Horstmann/9780471744870). Now out of print, this was the former textbook for the course and may provide some useful insights if you can find it. The programming examples will be a bit dated.
-* **Complementary Resource:** [Clean Code: A Handbook of Agile Software Craftmanship. Prentice-Hall, 2008.](http://proquest.safaribooksonline.com/9780136083238?tocview=true). Available on-line from the McGill domain. 
-* **Recommended Reference:** A Java 8 Programming reference of your choice.
-* **Sample Project:** [Solitaire](https://github.com/prmr/Solitaire)
+* **Required Textbook**: [Introduction to Software Design with Java](https://link.springer.com/book/10.1007/978-3-030-24094-3). The electronic version of this book is **free** for McGill users with library access. For those who optionally want a print version, the [Paragraph Bookstore](http://paragraphbooks.com/) will stock a limited number of copies. 
+* **Recommended Reference:** [Java: The Complete Reference](https://learning.oreilly.com/library/view/java-the-complete/9781260440249/?ar), also available at no cost from the McGill library.
+* **Sample Projects:** [Minesweeper](https://github.com/prmr/Minesweeper); [Solitaire](https://github.com/prmr/Solitaire)
 * **Diagramming Tool (and Sample Project):** [JetUML](http://cs.mcgill.ca/~martin/jetuml/)
 
 ## Course Work and Evaluation
