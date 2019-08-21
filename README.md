@@ -7,7 +7,8 @@ Provides an introduction to software design, with a focus on object-oriented des
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
 |**Time and place:** |Monday and Wednesday 16:00-17:30 [BRONF 151](http://virtualcampustour.mcgill.ca/en/details/20/bronfman-building)|
 |**Lectures Recorded?:**|No|
-|**Office hours:** | Instructor: Wednesday 11am or by appointment in MC 114N. For TA Office Hours [see below](#office-hours-and-labs-schedule)|
+|**Instructor Office hours:** | Wednesday 11am or by appointment in MC 114N|
+|**TA Office Hours:** | [See below](#office-hours-and-labs-schedule)|
 
 ## Course Topics
 * **Concepts and Principles:** Encapsulation, information hiding, abstraction, immutability, interface, reference sharing, escaping references, polymorphism, loose coupling, reusability, extensibility, separation of concerns, interface segregation, concrete and abstract object states, object life cycle, object identity, object equality, object uniqueness, state space minimization, unit testing, regression testing, quality attributes of unit tests, test suites, test coverage, divide and conquer, law of Demeter, code reuse, extensibility, Liskov substitution principle, inversion of control, model–view–controller
@@ -108,14 +109,11 @@ These policies are subject to revision at any point during the term.
 
 TA office hours and labs are in TR 3120.
 
+*To be completed
+
 | Time | TA |
 | --- |---|
-| Monday 4pm | Srinivas | 
-| Tuesday 11am | Mathieu |
-| Wednesday 11am | Paul |
-| Wednesday 12pm | Paul |
-| Wednesday 1pm | Mathieu |
-| Thursday 3pm | Srinivas |
+| Day Time | TAName | 
 
 ## License
 
@@ -123,4 +121,4 @@ TA office hours and labs are in TR 3120.
 
 Unless otherwise noted, the content of this repository is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. 
 
-Copyright Martin P. Robillard 2017
+Copyright Martin P. Robillard 2019
