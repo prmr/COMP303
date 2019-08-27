@@ -83,15 +83,15 @@ General philosophy of the role of lectures, and related policies:
 |5	|  18 Sep | 3-Types and Interfaces | |
 |6	|  23 Sep | 3-Types and Interfaces | |
 |7	|  25 Sep | 4-Object State | |
-|8	|  30 Sep | 4-Object State | |
-|9	|  02 Oct | 4-Object State | |
-|M  |  03 Oct | Midterm 1 18:00 | |
-|10	|  07 Oct | 5-Unit Testing | |
-|11	|  09 Oct | 5-Unit Testing | |
-|X	|  14 Oct | Thanksgiving | |
-|12	|  16 Oct | 5-Unit Testing | |
-|13	|  21 Oct | 6-Composition | |
-|14	|  23 Oct | 6-Composition | |
+|8	|  30 Sep | 4-Object State | Lab 1 (C2-3)|
+|9	|  02 Oct | 4-Object State | Lab 1 (C2-3)|
+|M  |  03 Oct | Midterm 1 18:00 | Lab 1 (C2-3)|
+|10	|  07 Oct | 5-Unit Testing | Lab 1 (C2-3)|
+|11	|  09 Oct | 5-Unit Testing | Lab 1 (C2-3)|
+|X	|  14 Oct | Thanksgiving | Lab 2 (C2-3)|
+|12	|  16 Oct | 5-Unit Testing | Lab 2 (C2-3)|
+|13	|  21 Oct | 6-Composition | Lab 2 (C2-3)|
+|14	|  23 Oct | 6-Composition | Lab 2 (C2-3)|
 |15	|  28 Oct | 6-Composition | |
 |16	|  30 Oct | 7-Inheritance | |
 |17	|  04 Nov | 7-Inheritance | |
