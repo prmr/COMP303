@@ -39,9 +39,9 @@ After this course, you should be able to...
 
 ## Course Work and Evaluation
 
-This course is divided into nine main modules which map to the chapters of the book. Except for the introduction, modules are spread over two or three lectures and involve mandatory reading and practice exercises. **To be able to follow the pace of the course, the reading must be done before the module lectures and the exercises must be completed within one week of the end of the second lecture of the module.**
+This course is divided into nine main modules which map to the chapters of the book. Except for the introduction, chapters are spread over two or three lectures and involve mandatory reading and practice exercises. **To be able to follow the pace of the course, the reading must be done before the chapter lectures and the exercises must be completed within one week of the end of the second lecture of the chapter.**
 
-**It's very hard to get good at anything without practice, and software design is no exception.** Practice exercises are organized in terms of the module structure and are available on the [companion website](https://github.com/prmr/DesignBook). The exercises are designed to help you learn as effectively as possible: you can do them at your own pace, individually or in a group, repeat what's necessary, seek advice from anyone, and make mistakes and learn from them. For these and other reasons, they would be a poor choice for *testing* your knowledge of the material, so they are not graded. Instead, your practical skills will be evaluated through *lab tests*.
+**It's very hard to get good at anything without practice, and software design is no exception.** Practice exercises are organized in terms of the chapter structure and are available on the [companion website](https://github.com/prmr/DesignBook). The exercises are designed to help you learn as effectively as possible: you can do them at your own pace, individually or in a group, repeat what's necessary, seek advice from anyone, and make mistakes and learn from them. For these and other reasons, they would be a poor choice for *testing* your knowledge of the material, so they are not graded. Instead, your practical skills will be evaluated through *lab tests*.
 
 **The recipe for success** in COMP 303 is to regularly prepare for lectures by doing the required readings in advance, attending the lectures and participating in the design and coding walk-throughs, then completing the related exercises as soon as possible. If you do this you may be pleased to discover that the material will grow on you almost subconsciously. **The recipe for failure** is to await the midterms and final, then furiously attempt to memorize the book and lecture material. 
 
@@ -56,6 +56,8 @@ This course is divided into nine main modules which map to the chapters of the b
 * Midterm exams are normally worth 20%, but the grade of the lowest midterm can be replaced by 10% each of the final exam and other midterm. Missing one midterm automaticall selects this option.
 * Missing both midterm exams results in a grade of 0% (on 30% of the total grade) unless original, independently-verifiable documentation justifying the absence to both midterm exams can be provided. Valid causes are limited to *unforseeable* circumstances.
 * All material covered in class and in the practice exercises is subject to examination.
+* **Midterm 1:** Thursday, October 3, 2019, 18:00-20:00
+* **Midterm 2:** Wednesday, November 6, 2019 18:00-20:00
 
 ## Lectures
 
@@ -72,9 +74,44 @@ General philosophy of the role of lectures, and related policies:
 
 *Subject to minor adjustments*
 
-| Lecture | Date | Module |Lab|
+| Lecture | Date | Chapter |Lab|
 | --- |---|---|---|
 |1	|  4 Sep | 1-Introduction | |
+|2	|  9 Sep | 2-Encapsulation | |
+|3	|  11 Sep | 2-Encapsulation | |
+|4	|  16 Sep | 3-Types and Interfaces | |
+|5	|  18 Sep | 3-Types and Interfaces | |
+|6	|  23 Sep | 3-Types and Interfaces | |
+|7	|  25 Sep | 4-Object State | |
+|8	|  30 Sep | 4-Object State | |
+|9	|  02 Oct | 4-Object State | |
+|M  |  03 Oct | Midterm 1 18:00 | |
+|10	|  07 Oct | 5-Unit Testing | |
+|11	|  09 Oct | 5-Unit Testing | |
+|X	|  14 Oct | Thanksgiving | |
+|12	|  16 Oct | 5-Unit Testing | |
+|13	|  21 Oct | 6-Composition | |
+|14	|  23 Oct | 6-Composition | |
+|15	|  28 Oct | 6-Composition | |
+|16	|  30 Oct | 7-Inheritance | |
+|17	|  04 Nov | 7-Inheritance | |
+|18	|  06 Nov | Midterm 2 18:00 - no class | |
+
+*To be continued*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Office Hours and Labs Schedule
 
