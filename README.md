@@ -20,6 +20,8 @@ Provides an introduction to software design, with a focus on object-oriented des
 ## Prerequisites
 The official prerequisites are COMP206 and COMP250. However, this assumes active participation in these courses and the accumulation of **a minimum level of Java programming experience**. It is difficult to learn software design while still getting familiar with basic programming idioms. It would be a bit like attempting to study literature in an unfamiliar language. This means that students registering to take COMP 303 should be able to, with a minimum of hesitation, write Java programs to solve small and well-defined problems, use a revision control system to organize their work, and use a debugger to trace through the execution of the code and inspect run-time values. Students who feel they could use additional programming experience are encouraged to take a few more COMP courses or undertake a pratice project or two before taking COMP303.
 
+Not sure where you stand? Try the [self-assessment question](Assessment.md).
+
 ## Learning Outcomes
 After this course, you should be able to... 
 
@@ -98,20 +100,6 @@ General philosophy of the role of lectures, and related policies:
 |18	|  06 Nov | Midterm 2 18:00 - no class | |
 
 *To be continued*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Office Hours and Labs Schedule
 
