@@ -1,10 +1,10 @@
 # Self-Assessment Questions
 
-The following questions can be used as a guide to help assess your level of readiness to take COMP303. It is not a perfect instrument, and comes with no guarantee. However, if you are wondering whether you are ready to take the course, this is a good place to start.
+The following questions can be used as a guide to help assess your level of readiness to take COMP303. It is not a perfect instrument, and comes with no guarantee. However, if you are wondering whether you are ready to take the course, this is a good place to start. Once you are done (or have gone as far as you can), check your progress against the [self-evaluation grid](Evaluation.md).
 
 ## Question 1
 
-Complete the following task using only the programming tools available in your IDE, the [Java API documentation](), and one basic Java programming book. This excludes looking for answers on forums and websites (which you won't have access to during the exam).
+Complete the following task using only the programming tools available in your IDE, the [Java API documentation](https://docs.oracle.com/javase/8/docs/api/), and one basic Java programming book (for example [ThinkJava](http://www.greenteapress.com/thinkapjava/thinkapjava.pdf)). This excludes looking for answers on forums and websites (which you won't have access to during the exam).
 
 Given an input text string, find the word that occurs the most frequently, and retrieve this word along with its frequency. Ignore the capitalization when counting frequencies (e.g., "The" and "the" are the same). Consider a word to be any string of characters separated by one or more white space (return, tab, or space), comma (`,`), or period (`.`). If there are more than one word with equal maximum frequency, you can return any of them.
 
