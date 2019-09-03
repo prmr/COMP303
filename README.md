@@ -109,7 +109,11 @@ TA office hours and labs are in TR 3120.
 
 | Time | TA |
 | --- |---|
-| Day Time | TAName | 
+| Monday 10 am to noon | Srinivas | 
+| Tuesday 9 to 11 am | Aaron |
+| Wednesday 1:30 to 3:30 pm | David |
+| Thursday 2 to 4 pm | Mathieu |
+| Friday 8:30 to 10:30 am | Deeksha |
 
 ## License
 
