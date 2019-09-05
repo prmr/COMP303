@@ -90,16 +90,22 @@ General philosophy of the role of lectures, and related policies:
 |M  |  03 Oct | Midterm 1 18:00 | Lab 1 (C2-3)|
 |10	|  07 Oct | 5-Unit Testing | Lab 1 (C2-3)|
 |11	|  09 Oct | 5-Unit Testing | Lab 1 (C2-3)|
-|X	|  14 Oct | Thanksgiving | Lab 2 (C2-3)|
+|X	|  14 Oct | Thanksgiving | |
 |12	|  16 Oct | 5-Unit Testing | Lab 2 (C2-3)|
 |13	|  21 Oct | 6-Composition | Lab 2 (C2-3)|
 |14	|  23 Oct | 6-Composition | Lab 2 (C2-3)|
-|15	|  28 Oct | 6-Composition | |
+|15	|  28 Oct | 6-Composition | Lab 2 (C2-3)|
 |16	|  30 Oct | 7-Inheritance | |
-|17	|  04 Nov | 7-Inheritance | |
-|18	|  06 Nov | Midterm 2 18:00 - no class | |
-
-*To be continued*
+|17	|  04 Nov | 7-Inheritance | Lab 3 (c5-6) |
+|18	|  06 Nov | Midterm 2 18:00 - no class | Lab 3 (c5-6) |
+|19 |  11 Nov | 7-Inheritance | Lab 3 (c5-6) |
+|20 |  13 Nov | 8-Inversion of Control | Lab 3 (c5-6) |
+|21 |  18 Nov | 8-Inversion of Control | |
+|22 |  20 Nov | 8-Inversion of Control | Lab 4 (c7-8) |
+|23 |  25 Nov | 9-Functional Design | Lab 4 (c7-8) |
+|24 |  27 Nov | 9-Functional Design | Lab 4 (c7-8) |
+|25 |  02 Dec | 9-Functional Design | Lab 4 (c7-8) |
+|26 |  03 Dec | Replaced by midterm 1 - no class | Lab 4 (c7-8) |
 
 ## Office Hours and Labs Schedule
 
