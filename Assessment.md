@@ -38,7 +38,7 @@ Most frequent: "non" (4 occurrences)
 ## Lab Tests
 
 The following questions can be used to assess your level of programming skills for lab tests. The three tasks ask you to modify the code located at
-https://github.com/prmr/COMP303Starter/tree/master/labtest01/labtest01
+https://github.com/prmr/COMP303Starter/tree/master/sample1/labtest01
 You should be able to complete each of the three tasks in about 15 minutes.
 A familiarity with the manipulation of the common data structure in Java (Map, List, Set) can help.
 
