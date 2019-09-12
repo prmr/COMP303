@@ -98,7 +98,7 @@ General philosophy of the role of lectures, and related policies:
 |16	|  30 Oct | 7-Inheritance | |
 |17	|  04 Nov | 7-Inheritance | Lab 3 (c6-7) |
 |18	|  06 Nov | Midterm 2 18:00 - no class | Lab 3 (c6-7) |
-|19 |  11 Nov | 7-Inheritance | Lab 3 (c5-6) |
+|19 |  11 Nov | 7-Inheritance | Lab 3 (c6-7) |
 |20 |  13 Nov | 8-Inversion of Control | Lab 3 (c6-7) |
 |21 |  18 Nov | 8-Inversion of Control | |
 |22 |  20 Nov | 8-Inversion of Control | Lab 4 (c7-8) |
