@@ -7,7 +7,7 @@ Provides an introduction to software design, with a focus on object-oriented des
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
 |**Time and place:** |Monday and Wednesday 16:00-17:30 [BRONF 151](http://virtualcampustour.mcgill.ca/en/details/20/bronfman-building)|
 |**Lectures Recorded?:**|No|
-|**Instructor Office hours:** | Wednesday 11am or by appointment in MC 114N|
+|**Instructor Office hours:** | Wednesday 10:45am or by appointment in MC 114N|
 |**TA Office Hours:** | [See below](#office-hours-and-labs-schedule)|
 
 ## Course Topics
