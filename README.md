@@ -61,6 +61,8 @@ This course is divided into nine main modules which map to the chapters of the b
 * **Midterm 1:** Thursday, October 3, 2019, 18:00-20:00
 * **Midterm 2:** Wednesday, November 6, 2019 18:00-20:00
 
+Here is a [sample midterm](Sample-Midterm.pdf). This sample is provided so that you can familiarize yourself in advance with the *exam style*. **However**, the course schedule varies slightly from section to section so **the topics covered in the sample midterm are not necessarily representative of what will be evaluated in your own midterm**.
+
 ## Lectures
 
 General philosophy of the role of lectures, and related policies:
