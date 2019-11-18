@@ -124,7 +124,7 @@ TA office hours and labs are in TR 3120.
 **Registration Procedure:**
 
 1. Registrations are made on a first come, first serve basis.
-2. To register, you must send an email to Aaron, or come to any TA office hour and register in person.
+2. To register, you must send an email to Srinivas (see his email on Piazza, post @159, and make sure to use the @mcgill.ca email, NOT @mail.mcgill.ca), or come to any TA office hour and register in person.
 3. For all 4 series of lab test, each of the 20 slots (2 weeks x 2 hours per day x 5 days) has a maximum capacity of 11 students. You can see the registration status on the public read-only schedule (https://docs.google.com/spreadsheets/d/1a4nGHx7N6-h61J3mDM3poO_cK4h56t7x6KRa_6xMpbY/).
 4. Students can register as soon as they want for any slot that is free, but no later than the day before the test.
 5. **If, during a series of lab test, there are no more available slots, you cannot take the test, and therefore will receive a grade of 0 for this test.** To avoid this situation, make sure to confirm your registration **before** the first lab test of each series.
