@@ -102,11 +102,11 @@ General philosophy of the role of lectures, and related policies:
 |18	|  06 Nov | Midterm 2 18:00 - no class | Lab 3 (c6-7) |
 |19 |  11 Nov | 8-Inversion of Control | Lab 3 (c6-7) |
 |20 |  13 Nov | 8-Inversion of Control | Lab 3 (c6-7) |
-|21 |  18 Nov | 8-Inversion of Control | |
-|22 |  20 Nov | 9-Functional Design | Lab 4 (c7-8) |
+|21 |  18 Nov | S-Generic Types | |
+|22 |  20 Nov | 8-Inversion of Control | Lab 4 (c7-8) |
 |23 |  25 Nov | 9-Functional Design | Lab 4 (c7-8) |
 |24 |  27 Nov | 9-Functional Design | Lab 4 (c7-8) |
-|25 |  02 Dec | Buffer | Lab 4 (c7-8) |
+|25 |  02 Dec | 9-Functional Design | Lab 4 (c7-8) |
 |26 |  03 Dec | Replaced by midterm 1 - no class | Lab 4 (c7-8) |
 
 ## Office Hours and Labs Schedule
