@@ -106,8 +106,8 @@ General philosophy of the role of lectures, and related policies:
 |22 |  20 Nov | 8-Inversion of Control | Lab 4 (c7-8) |
 |23 |  25 Nov | 9-Functional Design | Lab 4 (c7-8) |
 |24 |  27 Nov | 9-Functional Design | Lab 4 (c7-8) |
-|25 |  02 Dec | 9-Functional Design | Lab 4 (c7-8) |
-|26 |  03 Dec | Replaced by midterm 1 - no class | Lab 4 (c7-8) |
+|25 |  02 Dec | Comprehensive Review Session | Lab 4 (c7-8) |
+|26 |  03 Dec | No Class (Replaced by Midterm 1) - Exam viewing session instead | Lab 4 (c7-8) |
 
 ## Office Hours and Labs Schedule
 
