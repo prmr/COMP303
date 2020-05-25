@@ -1,14 +1,13 @@
-# COMP303 - Software Design (Fall 2019)
+# COMP303 - Software Design (Fall 2020)
 
 Provides an introduction to software design, with a focus on object-oriented design. 
+
+<p class="callout info">A success message</p>
 
 | |  |
 | --- |---|
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
-|**Time and place:** |Monday and Wednesday 16:00-17:30 [BRONF 151](http://virtualcampustour.mcgill.ca/en/details/20/bronfman-building)|
-|**Lectures Recorded?:**|No|
-|**Instructor Office hours:** | Wednesday 10:45am or by appointment in MC 114N|
-|**TA Office Hours:** | [See below](#office-hours-and-labs-schedule)|
+|**Time and place:** |Due to the Covid-19 pandemic, the course will exceptionally be offered on-line following an asychronous model.|
 
 ## Course Topics
 * **Concepts and Principles:** Encapsulation, information hiding, abstraction, immutability, interface, reference sharing, escaping references, polymorphism, loose coupling, reusability, extensibility, separation of concerns, interface segregation, concrete and abstract object states, object life cycle, object identity, object equality, object uniqueness, state space minimization, unit testing, regression testing, quality attributes of unit tests, test suites, test coverage, divide and conquer, law of Demeter, code reuse, extensibility, Liskov substitution principle, inversion of control, model–view–controller
