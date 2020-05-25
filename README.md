@@ -2,8 +2,6 @@
 
 Provides an introduction to software design, with a focus on object-oriented design. 
 
-<p class="callout info">A success message</p>
-
 | |  |
 | --- |---|
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
