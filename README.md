@@ -50,72 +50,44 @@ In adition to the *individual* practice exercises, you will be required to parti
 
 All the material covered in the book, in the coding demonstrations, and the live chat sessions is subject to assessment. 
 
-## Lectures
+## Schedule
 
-General philosophy of the role of lectures, and related policies:
+*Subject to adjustments*
 
-* The lectures are not recorded. **No audio or video recording of any kind is allowed in class**, with the one exception that you can take pictures of the projection screen (only) if you can do so in a non-disruptive manner. Note, however, that practically all lecture material will be available on-line.
-* Lectures **complement** the course material with demonstrations, examples, discussions, and class activities: they do **not replace** individual reading and practice.
-* **The reading should be done in advance** to be able to follow the lecture. For example, I will not use the class time to read basic definitions of terms and go over the details of notation, because this is both boring and ineffective. However, coming to the lectures without having gone over the reading will be confusing, because terms will seem to come out of nowhere. Please do the reading in advance, and everything will be fine.
-* The lectures will **not** be [Power Pointless](http://www.slate.com/articles/life/education/2014/03/powerpoint_in_higher_education_is_ruining_teaching.html). I will occasionally use slides to provide visual support for the material, and post the slides after the lecture. The slides should not be expected to constitute a self-contained study document. I must emphatically warn anyone against attempting to pass the course by memorizing slides.
-* Although attendance is not monitored, I strongly recommend [attending lectures](http://www.cs.mcgill.ca/~martin/blog/2015-12-27.html). Lectures will feature walk-throughs of design and implementation tasks that will help you understand the reasoning behind certain design decisions as the decisions are being made. I will also go through multiple variants design solutions for various problems, which is extremely tedious to capture in writing (and read, for that matter).
-* If you do decide to attend lectures, please refrain from using your computing devices in a distracting or disruptive manner. This includes **watching videos, playing games**, etc. 
+### Topic Coverage
 
-## Lecture Schedule
+*The dates indicate when the corresponding learning material will be available. The dates correspond to the normal class schedule, but there is no requirement to attend an on-line meeting at a specific time.*
 
-*Subject to minor adjustments*
-
-| Lecture | Date | Chapter |Lab|
+| Lecture | Date | Chapter |
 | --- |---|---|---|
-|1	|  4 Sep | 1-Introduction | |
-|2	|  9 Sep | 2-Encapsulation | |
-|3	|  11 Sep | 2-Encapsulation | |
-|4	|  16 Sep | 3-Types and Interfaces | |
-|5	|  18 Sep | 3-Types and Interfaces | |
-|6	|  23 Sep | 3-Types and Interfaces | |
-|7	|  25 Sep | 4-Object State | |
-|8	|  30 Sep | 4-Object State | Lab 1 (C2-3)|
-|9	|  02 Oct | 4-Object State | Lab 1 (C2-3)|
-|M  |  03 Oct | Midterm 1 18:00 | Lab 1 (C2-3)|
-|10	|  07 Oct | 5-Unit Testing | Lab 1 (C2-3)|
-|11	|  09 Oct | 5-Unit Testing | Lab 1 (C2-3)|
-|X	|  14 Oct | Thanksgiving | |
-|12	|  16 Oct | 6-Composition | Lab 2 (C4-5)|
-|13	|  21 Oct | 6-Composition | Lab 2 (C4-5)|
-|14	|  23 Oct | 6-Composition | Lab 2 (C4-5)|
-|15	|  28 Oct | 7-Inheritance | Lab 2 (C4-5)|
-|16	|  30 Oct | 7-Inheritance | |
-|17	|  04 Nov | 7-Inheritance | Lab 3 (c6-7) |
-|18	|  06 Nov | Midterm 2 18:00 - no class | Lab 3 (c6-7) |
-|19 |  11 Nov | 8-Inversion of Control | Lab 3 (c6-7) |
-|20 |  13 Nov | 8-Inversion of Control | Lab 3 (c6-7) |
-|21 |  18 Nov | S-Generic Types | |
-|22 |  20 Nov | 8-Inversion of Control | Lab 4 (c7-8) |
-|23 |  25 Nov | 9-Functional Design | Lab 4 (c7-8) |
-|24 |  27 Nov | 9-Functional Design | Lab 4 (c7-8) |
-|25 |  02 Dec | Comprehensive Review Session | Lab 4 (c7-8) |
-|26 |  03 Dec | No Class (Replaced by Midterm 1) - Exam viewing session instead | Lab 4 (c7-8) |
-
-## Office Hours and Labs Schedule
-
-TA office hours and labs are in TR 3120.
-
-| Time | TA |
-| --- |---|
-| Monday 10 am to noon | Srinivas | 
-| Tuesday 9 to 11 am | Aaron |
-| Wednesday 1:30 to 3:30 pm | David |
-| Thursday 2 to 4 pm | Mathieu |
-| Friday 8:30 to 10:30 am | Deeksha |
-
-**Registration Procedure:**
-
-1. Registrations are made on a first come, first serve basis.
-2. To register, you must send an email to Srinivas (see his email on Piazza, post @159, and make sure to use the @mcgill.ca email, NOT @mail.mcgill.ca), or come to any TA office hour and register in person.
-3. For all 4 series of lab test, each of the 20 slots (2 weeks x 2 hours per day x 5 days) has a maximum capacity of 11 students. You can see the registration status on the public read-only schedule (https://docs.google.com/spreadsheets/d/1a4nGHx7N6-h61J3mDM3poO_cK4h56t7x6KRa_6xMpbY/).
-4. Students can register as soon as they want for any slot that is free, but no later than the day before the test.
-5. **If, during a series of lab test, there are no more available slots, you cannot take the test, and therefore will receive a grade of 0 for this test.** To avoid this situation, make sure to confirm your registration **before** the first lab test of each series.
-6. If you miss your lab test, you can try to reschedule for another available slot. If you are able to reschedule, you will receive a 7-point penalty on your new grade. You cannot reschedule to improve your grade on a test that you took.
+|1	|  2 Sep | 1-Introduction |
+|  	|  7 Sep | Labour Day |
+|2	|  9 Sep | 2-Encapsulation |
+|3	|  14 Sep | 2-Encapsulation |
+|4	|  16 Sep | 3-Types and Interfaces |
+|5	|  21 Sep | 3-Types and Interfaces |
+|6	|  23 Sep | 3-Types and Interfaces |
+|7	|  28 Sep | 4-Object State |
+|8	|  30 Sep | 4-Object State |
+|9	|  05 Oct | 4-Object State |
+|10  |  07 Oct | 5-Unit Testing |
+|    | 12 Oct | Thanksgiving | |
+|11	|  14 Oct | 5-Unit Testing |
+|12	|  19 Oct | 6-Composition |
+|13	|  21 Oct | 6-Composition | |
+|14	|  26 Oct | 6-Composition |
+|15	|  28 Oct | 7-Inheritancen |
+|16 |  02 Nov | 7-Inheritance |
+|17	|  04 Nov | 8-Inversion of Control |
+|18	|  09 Nov | 8-Inversion of Control |
+|19	|  11 Nov | 8-Inversion of Control |
+|20	|  16 Nov | 8-Inversion of Control |
+|21 |  18 Nov | 9-Functional Design |
+|22 |  23 Nov | 9-Functional Design |
+|23 |  25 Nov | 9-Functional Design |
+|24 |  30 Nov | Putting it all together |
+|25 |  02 Dec | Putting it all together |
+|26 |  03 Dec | Putting it all together |
 
 ## License
 
@@ -123,4 +95,4 @@ TA office hours and labs are in TR 3120.
 
 Unless otherwise noted, the content of this repository is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. 
 
-Copyright Martin P. Robillard 2019
+Copyright Martin P. Robillard 2020
