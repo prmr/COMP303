@@ -5,7 +5,7 @@ Provides an introduction to software design, with a focus on object-oriented des
 | |  |
 | --- |---|
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
-|**Time and place:** |Due to the Covid-19 pandemic, the course will exceptionally be offered on-line following an asychronous model. See [Course Work and Evaluation](#course-work-and-evaluation) for details.|
+|**Time and place:** |Due to the Covid-19 pandemic, the course will exceptionally be offered on-line following an asychronous model. See [Course Work and Evaluation](#course-work-and-evaluation) for details. *Please not that the information provided here is preliminary and subject to modifications*.|
 
 ## Course Topics
 * **Concepts and Principles:** Encapsulation, information hiding, abstraction, immutability, interface, reference sharing, escaping references, polymorphism, loose coupling, reusability, extensibility, separation of concerns, interface segregation, concrete and abstract object states, object life cycle, object identity, object equality, object uniqueness, state space minimization, unit testing, regression testing, quality attributes of unit tests, test suites, test coverage, divide and conquer, law of Demeter, code reuse, extensibility, Liskov substitution principle, inversion of control, model–view–controller
@@ -38,11 +38,13 @@ After this course, you should be able to...
 
 ## Course Work and Evaluation
 
-This course is divided into nine main modules which map to the chapters of the book. Except for the introduction, chapters are spread over two or three lectures and involve mandatory reading and practice exercises. **To be able to follow the pace of the course, the reading must be done before the chapter lectures and the exercises must be completed within one week of the end of the second lecture of the chapter.**
+This course is divided into nine main modules which map to the chapters of the book. 
 
-**It's very hard to get good at anything without practice, and software design is no exception.** Practice exercises are organized in terms of the chapter structure and are available on the [companion website](https://github.com/prmr/DesignBook). The exercises are designed to help you learn as effectively as possible: you can do them at your own pace, individually or in a group, repeat what's necessary, seek advice from anyone, and make mistakes and learn from them. For these and other reasons, they would be a poor choice for *testing* your knowledge of the material, so they are not graded. Instead, your practical skills will be evaluated through *lab tests*.
+The material will be presented in the form of recorded coding demonstrations with separate live chat sessions. **To be able to follow the pace of the course, the required reading must be done before the demonstrations and the exercises must be completed within one week of the end of the module.**
 
-**The recipe for success** in COMP 303 is to regularly prepare for lectures by doing the required readings in advance, attending the lectures and participating in the design and coding walk-throughs, then completing the related exercises as soon as possible. If you do this you may be pleased to discover that the material will grow on you almost subconsciously. **The recipe for failure** is to await the midterms and final, then furiously attempt to memorize the book and lecture material. 
+Individual practice exercises are organized in terms of the chapter structure and are available on the [companion website](https://github.com/prmr/DesignBook). The exercises are designed to help you learn as effectively as possible: you can do them at your own pace, individually or in a group, repeat what's necessary, seek advice from anyone, and make mistakes and learn from them. For these and other reasons, they would be a poor choice for *testing* your knowledge of the material, so they are not graded. 
+
+In adition to practice 
 
 | Evaluation Activity | Weight |
 | --- |---:|
