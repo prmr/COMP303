@@ -92,7 +92,7 @@ All the material covered in the book, in the coding demonstrations, and the live
 ### Design Activities
 
 | Topic | Starts | Ends |
-| --- |---|---|---|
+| --- |---|---|
 | 1-Chapter 2 | 14 Sep | 25 Sep |
 | 2-Chapter 3 | 28 Sep | 06 Oct |
 | 3-Chapter 4 | 07 Oct | 16 Oct |
