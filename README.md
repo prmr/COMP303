@@ -5,7 +5,7 @@ Provides an introduction to software design, with a focus on object-oriented des
 | |  |
 | --- |---|
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
-|**Time and place:** |Due to the Covid-19 pandemic, the course will exceptionally be offered on-line following an asychronous model.|
+|**Time and place:** |Due to the Covid-19 pandemic, the course will exceptionally be offered on-line following an asychronous model. See [Course Work and Evaluation](#course-work-and-evaluation) for details.|
 
 ## Course Topics
 * **Concepts and Principles:** Encapsulation, information hiding, abstraction, immutability, interface, reference sharing, escaping references, polymorphism, loose coupling, reusability, extensibility, separation of concerns, interface segregation, concrete and abstract object states, object life cycle, object identity, object equality, object uniqueness, state space minimization, unit testing, regression testing, quality attributes of unit tests, test suites, test coverage, divide and conquer, law of Demeter, code reuse, extensibility, Liskov substitution principle, inversion of control, model–view–controller
