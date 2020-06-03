@@ -89,6 +89,21 @@ All the material covered in the book, in the coding demonstrations, and the live
 |25 |  02 Dec | Putting it all together |
 |26 |  03 Dec | Putting it all together |
 
+### Design Activities
+
+| Topic | Starts | Ends |
+| --- |---|---|---|
+| 1-Chapter 2 | 14 Sep | 25 Sep |
+| 2-Chapter 3 | 28 Sep | 06 Oct |
+| 3-Chapter 4 | 07 Oct | 16 Oct |
+| 4-Chapter 5 | 19 Oct | 23 Oct  |
+| 5-Chapter 6 | 26 Oct | 30 Oct |
+| 6-Chapter 7 | 02 Nov | 06 Nov |
+| 7-Chapter 8 | 09 Nov | 13 Nov |
+| 8-Chapter 9 | 16 Nov | 20 Nov |
+| 9-Integration | 23 Nov | 03 Dec |
+
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
