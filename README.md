@@ -59,7 +59,7 @@ All the material covered in the book, in the coding demonstrations, and the live
 *The dates indicate when the corresponding learning material will be available. The dates correspond to the normal class schedule, but there is no requirement to attend an on-line meeting at a specific time.*
 
 | Lecture | Date | Chapter |
-| --- |---|---|---|
+| --- |---|---|
 |1	|  2 Sep | 1-Introduction |
 |  	|  7 Sep | Labour Day |
 |2	|  9 Sep | 2-Encapsulation |
