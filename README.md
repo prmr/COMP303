@@ -40,27 +40,15 @@ After this course, you should be able to...
 
 This course is divided into nine main modules which map to the chapters of the book. 
 
-The material will be presented in the form of recorded coding demonstrations with separate live chat sessions. **To be able to follow the pace of the course, the required reading must be done before the demonstrations and the exercises must be completed within one week of the end of the module.**
+The material will be presented in the form of recorded coding demonstrations with separate live chat sessions. 
 
-Individual practice exercises are organized in terms of the chapter structure and are available on the [companion website](https://github.com/prmr/DesignBook). The exercises are designed to help you learn as effectively as possible: you can do them at your own pace, individually or in a group, repeat what's necessary, seek advice from anyone, and make mistakes and learn from them. For these and other reasons, they would be a poor choice for *testing* your knowledge of the material, so they are not graded. 
+**Individual practice exercises** are organized in terms of the chapter structure and are available on the [companion website](https://github.com/prmr/DesignBook). The exercises are designed to help you learn as effectively as possible: you can do them at your own pace, individually or in a group, repeat what's necessary, seek advice from anyone, and make mistakes and learn from them. For these and other reasons, they would be a poor choice for *testing* your knowledge of the material, so they are not graded. 
 
-In adition to practice 
+**To be able to follow the pace of the course, the required reading must be done before the demonstrations and the exercises must be completed within one week of the end of the module.**
 
-| Evaluation Activity | Weight |
-| --- |---:|
-|Lab tests	|20%|
-|Midterm exam 1	|30%/20%/0%|
-|Midterm exam 2	|30%/20%/0%|
-|Final exam	    |40%/50%|
+In adition to the *individual* practice exercises, you will be required to participate in **nine graded collaborative design activities**. In these design activities, you and nine randomly-assigned classmates will tackle a design problem by proposing solutions and discussing them. These activities will be graded based on *individual contributions* following a uniform grading scheme. The first eight activities will map to modules 2-9 of the book, and the last activity will be a final integration activity covering the entire course. You will have between one and two weeks to complete each activity. Groups will be shuffled for each activity, giving you a chance to collaborate with a maximum number of classmates. The first eight activities will be worth 10% each, with the lowest grade being replaced by the highest grade. The final activity will be worth 20% and its grade cannot be swapped.
 
-**Important Notes:**
-* Midterm exams are normally worth 20%, but the grade of the lowest midterm can be replaced by 10% each of the final exam and other midterm. Missing one midterm automaticall selects this option.
-* Missing both midterm exams results in a grade of 0% (on 30% of the total grade) unless original, independently-verifiable documentation justifying the absence to both midterm exams can be provided. Valid causes are limited to *unforseeable* circumstances.
-* All material covered in class and in the practice exercises is subject to examination.
-* **Midterm 1:** Thursday, October 3, 2019, 18:00-20:00
-* **Midterm 2:** Wednesday, November 6, 2019 18:00-20:00
-
-Here is a [sample midterm](Sample-Midterm.pdf). This sample is provided so that you can familiarize yourself in advance with the *exam style*. **However**, the course schedule varies slightly from section to section so **the topics covered in the sample midterm are not necessarily representative of what will be evaluated in your own midterm**.
+All the material covered in the book, in the coding demonstrations, and the live chat sessions is subject to assessment. 
 
 ## Lectures
 
