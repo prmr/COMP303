@@ -34,30 +34,3 @@ For this input your program should return something like this:
 ```
 Most frequent: "non" (4 occurrences)
 ```
-
-## Lab Tests
-
-The following questions can be used to assess your level of programming skills for lab tests. The three tasks ask you to modify the code located at
-https://github.com/prmr/COMP303Starter/tree/master/sample1/labtest01
-You should be able to complete each of the three tasks in about 15 minutes.
-A familiarity with the manipulation of the common data structure in Java (Map, List, Set) can help.
-
-**Task 1:** Write a method `int countItems(Item target)` in the Corporation class that returns the total number of the `target` item in all inventories of the corporation.
-
-**Task 2:** Add a `long lastModified()` method to the Inventory class that returns the time of last modification (last call to `stock()` or `dispose()`) of the inventory. Hint: Use `System.currentTimeMillis()` to get the current time.
-
-**Task 3:** Add a `void clearCache()` method to the Inventory class that removes all items that are no longer available (quantity = 0) from the `aInventory` HashMap.
-
-Each solution can give you up to 5 marks. To evaluate your solutions, we will use the following grid:
-
-```
-No code or has no idea what’s going on: 0
-Is there a coherent solution that fulfills (at least partially) the requirement?
-YES
-	Perfect (optimal) solution: 5
-	With minor design issues, typos, or non-directed hints: 4
-	With major design flaws, compilation problems, or directed hints: 3
-NO
-	Missing only one key element: 3
-	Coherent set of elements towards a complete solution: 2
-	Confused set of elements related to the requirement: 1```
