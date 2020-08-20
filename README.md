@@ -50,6 +50,18 @@ In adition to the *individual* practice exercises, you will be required to parti
 
 All the material covered in the book, in the coding demonstrations, and the live chat sessions is subject to assessment. 
 
+## Learning Technology
+
+We will be using three main technology platforms for the course: [GitLabs](https://gitlab.cs.mcgill.ca/), [myCourses](https://mycourses2.mcgill.ca/d2l/home), and [Slack](https://slack.com). Please refer to the table below to know where to go:
+
+| Activity | Platform |
+| --- |---|
+| Video lectures | myCourses |
+| Assignments | GitLabs |
+| Interactive Discussions | Slack |
+| Q&A Forum | GitLabs (issues) |
+| Grades | myCourses |
+
 ## Schedule
 
 *Subject to adjustments*
