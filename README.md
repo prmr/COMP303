@@ -58,10 +58,12 @@ We will be using three main technology platforms for the course: [GitLabs](https
 | Activity | Platform |
 | --- |---|
 | Video lectures | myCourses |
-| Assignments | GitLabs |
-| Interactive Discussions | Slack |
-| Q&A Forum | GitLabs (issues) |
 | Grades | myCourses |
+| Interactive Discussions | Slack |
+| Office Hours | Slack |
+| Course Announcements | Slack |
+| Assignments | GitLabs |
+| Q&A Forum | GitLabs (issues) |
 
 ## Schedule
 
