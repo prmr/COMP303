@@ -5,7 +5,7 @@ Provides an introduction to software design, with a focus on object-oriented des
 | |  |
 | --- |---|
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
-|**Time and place:** |Due to the Covid-19 pandemic, the course will exceptionally be offered on-line following an asychronous model. See [Course Work and Evaluation](#course-work-and-evaluation) for details. *Please note that the information provided here is preliminary and subject to modifications*.|
+|**Time and place:** |Due to the Covid-19 pandemic, the course will exceptionally be offered on-line following an asychronous model. See [Course Work and Evaluation](#course-work-and-evaluation) for details.|
 |**Set up**:|Please access the course's Welcome page on myCourses for detailed instruction on setting yourself up for the course's on-line platforms|
 
 ## Course Topics
@@ -47,7 +47,7 @@ The material will be presented in the form of recorded coding demonstrations wit
 
 **To be able to follow the pace of the course, the required reading must be done before the demonstrations and the exercises must be completed within one week of the end of the module.**
 
-In adition to the *individual* practice exercises, you will be required to participate in **nine graded collaborative design activities**. In these design activities, you and nine randomly-assigned classmates will tackle a design problem by proposing solutions and discussing them. These activities will be graded based on *individual contributions* following a uniform grading scheme. The first eight activities will map to modules 2-9 of the book, and the last activity will be a final integration activity covering the entire course. You will have between one and two weeks to complete each activity. Groups will be shuffled for each activity, giving you a chance to collaborate with a maximum number of classmates. The first eight activities will be worth 10% each, with the lowest grade being replaced by the highest grade. The final activity will be worth 20% and its grade cannot be swapped.
+In adition to the *individual* practice exercises, you will be required to participate in **nine graded collaborative design activities**. In these design activities, you and nine randomly-assigned classmates will tackle a design problem by proposing solutions and discussing them. These activities will be graded based on *individual contributions* following a uniform grading scheme. The first eight activities will map to modules 2-9 of the book, and the last activity will be a final integration activity covering the entire course. You will have between one and two weeks to complete each activity. Groups will be shuffled for each activity, giving you a chance to collaborate with a maximum number of classmates. The first six activities will be worth 12.5% each, with the lowest grade being replaced by the highest grade. The final activity will be worth 25% and its grade cannot be swapped.
 
 All the material covered in the book, in the coding demonstrations, and the live chat sessions is subject to assessment. 
 
@@ -111,13 +111,10 @@ We will be using three main technology platforms for the course: [GitLabs](https
 | 1-Chapter 2 | 14 Sep | 25 Sep |
 | 2-Chapter 3 | 28 Sep | 06 Oct |
 | 3-Chapter 4 | 07 Oct | 16 Oct |
-| 4-Chapter 5 | 19 Oct | 23 Oct  |
-| 5-Chapter 6 | 26 Oct | 30 Oct |
-| 6-Chapter 7 | 02 Nov | 06 Nov |
-| 7-Chapter 8 | 09 Nov | 13 Nov |
-| 8-Chapter 9 | 16 Nov | 20 Nov |
-| 9-Integration | 23 Nov | 03 Dec |
-
+| 4-Chapter 6 (5) | 20 Oct | 27 Oct  |
+| 5-Chapter 7 (5) | 29 Oct | 05 Nov |
+| 6-Chapter 8 | 09 Nov | 16 Nov |
+| 7-Integration | 18 Nov | 3 Dec |
 
 ## License
 
