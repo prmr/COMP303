@@ -91,18 +91,18 @@ We will be using three main technology platforms for the course: [GitLabs](https
 |12	|  19 Oct | 6-Composition |
 |13	|  21 Oct | 6-Composition | |
 |14	|  26 Oct | 6-Composition |
-|15	|  28 Oct | 7-Inheritancen |
+|15	|  28 Oct | 7-Inheritance |
 |16 |  02 Nov | 7-Inheritance |
-|17	|  04 Nov | 8-Inversion of Control |
+|17	|  04 Nov | 7-Inheritance |
 |18	|  09 Nov | 8-Inversion of Control |
 |19	|  11 Nov | 8-Inversion of Control |
 |20	|  16 Nov | 8-Inversion of Control |
-|21 |  18 Nov | 9-Functional Design |
+|21 |  18 Nov | 8-Inversion of Control |
 |22 |  23 Nov | 9-Functional Design |
 |23 |  25 Nov | 9-Functional Design |
-|24 |  30 Nov | Putting it all together |
-|25 |  02 Dec | Putting it all together |
-|26 |  03 Dec | Putting it all together |
+|24 |  30 Nov | 9-Functional Design |
+|25 |  02 Dec | Review |
+|26 |  03 Dec | Review |
 
 ### Design Activities
 
