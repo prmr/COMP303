@@ -2,13 +2,14 @@
 
 Provides an introduction to software design, with a focus on object-oriented design. 
 
-**The room locations, modality of  delivery, and schedule are subject to change. Updates will be posted here as soon as possible. However, the general format of the course will assume that you can be present during class time and attend exams in person.**
+
+
+**Update (23 Aug 2021): I have just received confirmation that the course can proceed with in-person exams and labs**
 
 | |  |
 | --- |---|
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
-|**Time:** |Tuesdays and Thursdays 8:35am-9:55am|
-|**Place**:|The lectures will be delivered via video; The lecture time will be used for labs and other evaluated activities; As many activities as possible (labs, exams) will be in person.|
+|**Time and Place:** |The lectures will be delivered via video on myCourses; Interactive office hours will take place Tuesday and Thursdays, 9-10am. Labs will take place in person in TR3120.|
 
 ## Course Topics
 * **Concepts and Principles:** Encapsulation, information hiding, abstraction, immutability, interface, reference sharing, escaping references, polymorphism, loose coupling, reusability, extensibility, separation of concerns, interface segregation, concrete and abstract object states, object life cycle, object identity, object equality, object uniqueness, state space minimization, unit testing, regression testing, quality attributes of unit tests, test suites, test coverage, divide and conquer, law of Demeter, code reuse, extensibility, Liskov substitution principle, inversion of control, model–view–controller
@@ -41,23 +42,33 @@ After this course, you should be able to...
 
 ## Course Work and Evaluation
 
-**This section is currently tentative. The methods of evaluation are subject to change according to the availability of rooms and the status of the pandemic.**
+*This section is subject to final adjustments.*
 
-This course is divided into nine main modules which map to the chapters of the book. 
-
-The material will be presented in the form of recorded coding demonstrations. 
+This course is divided into nine main modules which map to the chapters of the book. The material will be presented in the form of **recorded coding demonstrations**. 
 
 **Individual practice exercises** are organized in terms of the chapter structure and are available on the [companion website](https://github.com/prmr/DesignBook). The exercises are designed to help you learn as effectively as possible: you can do them at your own pace, individually or in a group, repeat what's necessary, seek advice from anyone, and make mistakes and learn from them. For these and other reasons, they would be a poor choice for *testing* your knowledge of the material, so they are not graded. 
 
-**To be able to follow the pace of the course, the required reading must be done before the demonstrations and the exercises must be completed within one week of the end of the module.**
+**To be able to follow the pace of the course, the required reading must be done before the demonstrations and the exercises must be completed before the corresponding lab test.**
 
-The grade will be based on a lab component, one or two midterms, and a final exam. More details will be provided here once official information is available from the University about the options for assessments.
+**The recipe for success** in COMP 303 is to regularly do the required readings in advance, completing the related exercises as soon as  possible, and asking questions when stuck. If you do this you may be pleased to discover that the  material will grow on you almost subconsciously. **The recipe for failure** is to await the midterm and final, then furiously attempt to memorize the book and lecture material. 
 
-All the material covered in the book, in the coding demonstrations, and the live chat sessions is subject to assessment. 
+| Evaluation Activity   | Weight |
+| --------------------- | ------ |
+| Lab tests (4@5% each) | 20%    |
+| Midterm exam          | 30%    |
+| Final exam            | 50%    |
+
+**Important Notes:**
+
+- If the grade of final exam exceeds that of the midterm, the  grade of the final exam will replace the midterm grade.
+- All material covered in videos and in the practice exercises is subject to assessment.
+
+- **Midterm:** Tuesday Oct 26, 6-9pm,  STBIO S1/4, MAASS 112
+- Here is a [sample midterm](https://github.com/prmr/COMP303/blob/2019F/Sample-Midterm.pdf). This sample is provided so that you can familiarize yourself in advance with the *exam style*. **However**, the course schedule varies slightly from section to section so **the topics covered in the sample midterm are not necessarily representative of what will be evaluated in your own midterm**.
 
 ## Schedule
 
-To be determined.
+To be determined. 
 
 ## License
 
@@ -65,4 +76,4 @@ To be determined.
 
 Unless otherwise noted, the content of this repository is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. 
 
-Copyright Martin P. Robillard 2020
+Copyright Martin P. Robillard 2021
