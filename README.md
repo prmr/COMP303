@@ -52,18 +52,18 @@ This course is divided into nine main modules which map to the chapters of the b
 
 **The recipe for success** in COMP 303 is to regularly do the required readings in advance, completing the related exercises as soon as  possible, and asking questions when stuck. If you do this you may be pleased to discover that the  material will grow on you almost subconsciously. **The recipe for failure** is to await the midterm and final, then furiously attempt to memorize the book and lecture material. 
 
-| Evaluation Activity   | Weight |
-| --------------------- | ------ |
-| Lab tests (4@5% each) | 20%    |
-| Midterm exam          | 30%    |
-| Final exam            | 50%    |
+| Evaluation Activity              | Weight |
+| -------------------------------- | ------ |
+| Lab tests (4, with equal weight) | 25%    |
+| Midterm exam                     | 25%    |
+| Final exam                       | 50%    |
 
 **Important Notes:**
 
-- If the grade of final exam exceeds that of the midterm, the  grade of the final exam will replace the midterm grade.
+- **Accommodation 1**: If the grade of final exam exceeds that of the midterm, the  grade of the final exam will replace the grade of the midterm. This accommodation includes the case where students are unable to write the midterm.
+- **Accommodation 2:** The grade of the lab tests will be the average of the grades of the best three lab tests. This accommodation includes the case where students are unable to complete a lab test.
+- **Date and place of the midterm:** Tuesday Oct 26, 6-9pm,  STBIO S1/4, MAASS 112
 - All material covered in videos and in the practice exercises is subject to assessment.
-
-- **Midterm:** Tuesday Oct 26, 6-9pm,  STBIO S1/4, MAASS 112
 - Here is a [sample midterm](https://github.com/prmr/COMP303/blob/2019F/Sample-Midterm.pdf). This sample is provided so that you can familiarize yourself in advance with the *exam style*. **However**, the course schedule varies slightly from section to section so **the topics covered in the sample midterm are not necessarily representative of what will be evaluated in your own midterm**.
 
 ## Schedule
