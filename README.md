@@ -69,7 +69,16 @@ This course is divided into nine main modules which map to the chapters of the b
 
 ## Schedule
 
-To be determined. 
+Please see myCourses for a detailed progress checklist and the lab sign-up sheet.
+
+| Lab Number | Main Material Covered | Time Window     |
+| ---------- | --------------------- | --------------- |
+| 1          | Chapters 2 and 3      | 27 Sep - 8 Oct  |
+| 2          | Chapters 4 and 5      | 12 Oct - 22 Oct |
+| 3          | Chapters 6 and 7      | 1 Nov - 12 Nov  |
+| 4          | Chapters 7 and 8      | 15 Nov - 26 Nov |
+
+
 
 ## License
 
