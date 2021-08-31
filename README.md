@@ -37,7 +37,7 @@ After this course, you should be able to...
 * **Required Textbook**: [Introduction to Software Design with Java](https://link.springer.com/book/10.1007/978-3-030-24094-3). The electronic version of this book is **free** for McGill users with library access. 
 * **Companion Website**: [DesignBook @ GitHub](https://github.com/prmr/DesignBook)
 * **Recommended Reference:** [Java: The Complete Reference](https://learning.oreilly.com/library/view/java-the-complete/9781260440249/?ar), also available at no cost from the McGill library.
-* **Sample Project:** [Solitaire](https://github.com/prmr/Solitaire)
+* **Sample Project:** [Minesweeper](https://github.com/prmr/Minesweeper), [Solitaire](https://github.com/prmr/Solitaire)
 * **Diagramming Tool (and Sample Project):** [JetUML](http://cs.mcgill.ca/~martin/jetuml/)
 
 ## Course Work and Evaluation
