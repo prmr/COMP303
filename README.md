@@ -1,15 +1,16 @@
 # COMP303 - Software Design (Fall 2021)
 
-Provides an introduction to software design, with a focus on object-oriented design. 
-
-
+**Update (31 Aug 2021): It will not be possible to do the course purely remotely. However, no in-person activity will take place before the week of 27 Sep.**
 
 **Update (23 Aug 2021): I have just received confirmation that the course can proceed with in-person exams and labs**
+
+Provides an introduction to software design, with a focus on object-oriented design. 
 
 | |  |
 | --- |---|
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
-|**Time and Place:** |The lectures will be delivered via video on myCourses; Interactive office hours will take place Tuesday and Thursdays, 9-10am. Labs will take place in person in TR3120.|
+|**Time and Place:** |The lectures will be delivered via video on myCourses; Interactive office hours will take place Tuesday 9-10am and, as necessary,  Thursdays, 9-10am. Labs will take place in person in TR3120.|
+|**Contact:** |For general questions about the course, use the myCourses **discussion board**. The instructor will be available via Zoom during **office hours**, also accessible via myCourses. Please resort to **email** only for confidential administrative matters (response delays are inevitable for email). The email addresses of the TAs will be available through myCourses.|
 
 ## Course Topics
 * **Concepts and Principles:** Encapsulation, information hiding, abstraction, immutability, interface, reference sharing, escaping references, polymorphism, loose coupling, reusability, extensibility, separation of concerns, interface segregation, concrete and abstract object states, object life cycle, object identity, object equality, object uniqueness, state space minimization, unit testing, regression testing, quality attributes of unit tests, test suites, test coverage, divide and conquer, law of Demeter, code reuse, extensibility, Liskov substitution principle, inversion of control, model–view–controller
