@@ -63,7 +63,7 @@ This course is divided into nine main modules which map to the chapters of the b
 
 - **Accommodation 1**: If the grade of the final exam exceeds that of the midterm, the  grade of the final exam will replace the grade of the midterm. This accommodation includes the case where students are unable to write the midterm.
 - **Accommodation 2:** The grade of the lab tests will be the average of the grades of the best three lab tests. This accommodation includes the case where students are unable to complete a lab test.
-- **Date and place of the in-person midterm:** Tuesday Oct 26, 6-9pm,  LEA 132
+- **Date and place of the in-person midterm:** Tuesday Oct 26, 6-7:30pm,  LEA 132
 - All material covered in videos and in the practice exercises is subject to assessment.
 - Here is a [sample midterm](https://github.com/prmr/COMP303/blob/2019F/Sample-Midterm.pdf). This sample is provided so that you can familiarize yourself in advance with the *exam style*. **However**, the course schedule varies slightly from section to section so **the topics covered in the sample midterm are not necessarily representative of what will be evaluated in your own midterm**.
 
