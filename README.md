@@ -5,7 +5,7 @@ Provides an introduction to software design, with a focus on object-oriented des
 | |  |
 | --- |---|
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
-|**Time and Place:** |Tuesdays and Thursdays, 16:05-17:25 in [SADB M-1](https://maps.mcgill.ca/?cmp=1&txt=EN&id=StrathconaAD). The lectures are available in person and are not recorded.|
+|**Time and Place:** |Tuesdays and Thursdays, 16:05-17:25 in [MAASS 112](https://maps.mcgill.ca/?cmp=1&txt=EN&id=Maass). The lectures are available in person and are not recorded.|
 |**Contact:** | The fastest way to get answers to questions about the course is to use the myCourses **discussion board**. The instructor and TAs will also be available in person during **office hours** (times and place posted on myCourses). Please resort to **email** only for confidential administrative matters (note that response delays are inevitable due to email volume). The email addresses of the TAs will be available through myCourses.|
 
 ## Course Topics
