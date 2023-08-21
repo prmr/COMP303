@@ -1,4 +1,4 @@
-# COMP303 - Software Design (Fall 2022)
+# COMP303 - Software Design (Fall 2023)
 
 Provides an introduction to software design, with a focus on object-oriented design. 
 
