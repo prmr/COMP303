@@ -5,8 +5,9 @@ Provides an introduction to software design, with a focus on object-oriented des
 | |  |
 | --- |---|
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
-|**Time and Place:** |Tuesdays and Thursdays, 16:05-17:25 in [MAASS 112](https://maps.mcgill.ca/?cmp=1&txt=EN&id=Maass). The lectures are available in person and are not recorded.|
-|**Contact:** | The fastest way to get answers to questions about the course is to use the myCourses **discussion board**. The instructor and TAs will also be available in person during **office hours** (times and place posted on myCourses). Please resort to **email** only for confidential administrative matters (note that response delays are inevitable due to email volume). The email addresses of the TAs will be available through myCourses.|
+|**Time and Place:** |Mondays and Wednesdays, 8:35-9:55 in [ENGMC 304](https://maps.mcgill.ca/?cmp=1&txt=EN&id=McConnellEng).|
+|**Policy on lectures:**| Lectures are designed as an interactive in-person activity during which anyone should feel comfortable to participate. Lectures are therefore **not recorded** and may not be independently audio- or video-recorded. It is permitted to take pictures of the presentation screen for _private study_ if the picture does not include the instructor or other students. Attendance is recommended but not mandatory. |
+|**Contact:** | The fastest way to get answers to questions about the course is to use the course's **discussion board**. The instructor and TAs will also be available in person during **office hours** (times and place posted on myCourses). Please resort to **email** only for exceptional and confidential administrative matters (note that response delays are inevitable due to email volume). The email addresses of the TAs will be available through myCourses.|
 
 ## Course Topics
 * **Concepts and Principles:** Encapsulation, information hiding, abstraction, immutability, interface, reference sharing, escaping references, polymorphism, loose coupling, reusability, extensibility, separation of concerns, interface segregation, concrete and abstract object states, object life cycle, object identity, object equality, object uniqueness, state space minimization, unit testing, regression testing, quality attributes of unit tests, test suites, test coverage, divide and conquer, law of Demeter, code reuse, extensibility, Liskov substitution principle, inversion of control, model–view–controller
@@ -16,9 +17,9 @@ Provides an introduction to software design, with a focus on object-oriented des
 * **Patterns and Antipatterns:** Primitive Obsession*, Inappropriate Intimacy*, Iterator, Strategy, Switch Statement*, Speculative Generality*, Temporary Field*, Long Method*, Null Object, Flyweight, Singleton, Duplicated Code*, God Class*, Message Chain*, Composite, Decorator, Prototype, Command, Template Method, Pairwise Dependencies*, Observer, Visitor. 
 
 ## Prerequisites
-The official prerequisites are COMP206 and COMP250. However, this assumes active participation in these courses and the accumulation of **a minimum level of Java programming experience**. This means that students registering to take COMP 303 should be able to, with a minimum of hesitation, write Java programs to solve small and well-defined problems, use Git to organize their work, and use a debugger to trace through the execution of the code and inspect run-time values. Students who feel they could use additional programming experience are encouraged to take a few more COMP courses or undertake a pratice project or two before taking COMP303.
+The official prerequisites are COMP206 and COMP250. This assumes active participation in these courses and the accumulation of **a minimum level of Java programming experience**. This means that students registering to take COMP 303 should be able to write Java programs to solve small and well-defined problems, use Git to organize their work, and use a debugger to trace through the execution of the code and inspect run-time values. Students who feel they could use additional programming experience are encouraged to take a few more COMP courses or undertake a practice project or two before taking COMP303.
 
-Not sure where you stand? Try the [self-assessment question](Assessment.md).
+The [self-assessment question](Assessment.md) will help you gauge your level of preparation for the course.
 
 ## Learning Outcomes
 After this course, you should be able to... 
@@ -47,7 +48,7 @@ Practice exercises are organized in terms of the chapter structure and are avail
 
 **To be able to follow the pace of the course, the reading should be done before the chapter lectures and the exercises completed within one week of the end of the second lecture of the chapter.**
 
-**The recipe for success** in COMP 303 is to regularly prepare for lectures by doing the required readings in advance, attend the lectures and participate in the design and coding walk-throughs, then complete the related exercises as soon as possible. If you do this you may be pleased to discover that the material will grow on you almost subconsciously. In contrast, **furiously attempting to memorize the book and lecture material before exams is likely to result in some disappointment**.
+**The recipe for success** in COMP 303 is to prepare for lectures by regularly doing the required readings in advance, attending the lectures, then completing the related exercises as soon as possible. If you do this you may be pleased to discover that the material will grow on you almost subconsciously. In contrast, **attempting to memorize the book and lecture material before exams is likely to result in some disappointment**.
 
 | Evaluation Activity                        | Weight |
 | ------------------------------------------ | ------ |
@@ -65,7 +66,7 @@ Practice exercises are organized in terms of the chapter structure and are avail
 
 ## Schedule
 
-Please see myCourses for a detailed progress checklist and the lab sign-up sheet.
+See myCourses for a detailed schedule and the lab sign-up sheet.
 
 ## License
 
@@ -73,4 +74,4 @@ Please see myCourses for a detailed progress checklist and the lab sign-up sheet
 
 Unless otherwise noted, the content of this repository is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. 
 
-Copyright Martin P. Robillard 2022
+Copyright Martin P. Robillard 2023
