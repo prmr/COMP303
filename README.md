@@ -60,7 +60,7 @@ Practice exercises are organized in terms of the chapter structure and are avail
 
 - **Accommodation 1 (exams)**: If the grade of the final exam exceeds that of the midterm, the  grade of the final exam will replace the grade of the midterm. This accommodation covers the case where students are unable to write the midterm.
 - **Accommodation 2 (labs):** The grade of the lab tests will be the average of the grades of the best three lab tests. This accommodation covers the case where students are unable to complete a lab test.
-- **Date and place of the in-person midterm:** TBD.
+- **Date and place of the in-person midterm:** Tuesday 31 October 6-8pm.
 - All material covered in the textbook, lectures, and in the practice exercises is subject to assessment.
 - Here is a [sample midterm](https://github.com/prmr/COMP303/blob/2019F/Sample-Midterm.pdf). This sample is provided so that you can familiarize yourself in advance with the *exam style*. **However**, the course schedule varies slightly from section to section so **the topics covered in the sample midterm are not necessarily representative of what will be evaluated in your own midterm**.
 
