@@ -1,11 +1,11 @@
-# COMP303 - Software Design (Fall 2023)
+# COMP303 - Software Design (Fall 2024)
 
 Provides an introduction to software design, with a focus on object-oriented design. 
 
 | |  |
 | --- |---|
 |**Instructor:** |[Martin Robillard](http://www.cs.mcgill.ca/~martin)|
-|**Time and Place:** |Mondays and Wednesdays, 8:35-9:55 in [ENGMC 304](https://maps.mcgill.ca/?cmp=1&txt=EN&id=McConnellEng).|
+|**Time and Place:** |Tuesdays and Thursdays, 2:35-3:55 in [MCMED 504](https://maps.mcgill.ca/?z=16.00&cmp=1&txt=EN&id=McIntyre).|
 |**Policy on lectures:**| Lectures are designed as an interactive in-person activity during which anyone should feel comfortable to participate. Lectures are therefore **not recorded** and may not be independently audio- or video-recorded. It is permitted to take pictures of the presentation screen for _private study_ if the picture does not include the instructor or other students. Attendance is recommended but not mandatory. |
 |**Contact:** | The fastest way to get answers to questions about the course is to use the course's **discussion board**. The instructor and TAs will also be available in person during **office hours** (times and place posted on myCourses). Please resort to **email** only for exceptional and confidential administrative matters (note that response delays are inevitable due to email volume). The email addresses of the TAs will be available through myCourses.|
 
@@ -33,8 +33,8 @@ After this course, you should be able to...
 ## Reference Material
 
 * **Required Textbook**: [Introduction to Software Design with Java, 2nd edition](https://link.springer.com/book/10.1007/978-3-030-97899-0). The electronic version of this book is **free** for McGill users with library access. 
-* **Companion Website**: [DesignBook @ GitHub](https://github.com/prmr/DesignBook)
-* **Recommended Reference:** [Java: The Complete Reference](https://learning.oreilly.com/library/view/java-the-complete/9781260440249/?ar), also available at no cost from the McGill library.
+* **Code Samples**: [CodeSample.info](https://CodeSample.info)
+* **GitHub Repository**: [DesignBook @ GitHub](https://github.com/prmr/DesignBook)
 * **Sample Projects:** [COMP303 Starter](https://github.com/prmr/COMP303Starter), [Minesweeper](https://github.com/prmr/Minesweeper), [Solitaire](https://github.com/prmr/Solitaire)
 * **Diagramming Tool:** [JetUML](https://www.jetuml.org/)
 
@@ -48,7 +48,7 @@ Practice exercises are organized in terms of the chapter structure and are avail
 
 **To be able to follow the pace of the course, the reading should be done before the chapter lectures and the exercises completed within one week of the end of the second lecture of the chapter.**
 
-**The recipe for success** in COMP 303 is to prepare for lectures by regularly doing the required readings in advance, attending the lectures, then completing the related exercises as soon as possible. If you do this you may be pleased to discover that the material will grow on you almost subconsciously. In contrast, **attempting to memorize the book and lecture material before exams is likely to result in some disappointment**.
+**The recipe for success** in COMP 303 is to prepare for lectures by regularly doing the required readings in advance, attending the lectures, then completing the related exercises as soon as possible. If you do this you may be pleased to discover that the material will grow on you almost subconsciously. In contrast, **attempting to memorize the book before exams is likely to result in some disappointment**.
 
 | Evaluation Activity                        | Weight |
 | ------------------------------------------ | ------ |
