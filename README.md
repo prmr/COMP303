@@ -52,7 +52,7 @@ Practice exercises are organized in terms of the chapter structure and are avail
 
 | Evaluation Activity                        | Weight |
 | ------------------------------------------ | ------ |
-| Lab tests (4, with equal weight)           | 25%    |
+| [Lab tests](lab-test.pdf) (4, with equal weight)           | 25%    |
 | Midterm exam                               | 25%    |
 | Final exam                                 | 50%    |
 
@@ -64,7 +64,7 @@ Practice exercises are organized in terms of the chapter structure and are avail
 - All material covered in the textbook, lectures, and in the practice exercises is subject to assessment.
 - Here is a [sample midterm](https://github.com/prmr/COMP303/blob/2019F/Sample-Midterm.pdf). This sample is provided so that you can familiarize yourself in advance with the *exam style*. **However**, the course schedule varies slightly from section to section so **the topics covered in the sample midterm are not necessarily representative of what will be evaluated in your own midterm**.
 
-<div style="font-size:0.75em;">
+<div style="font-size:0.5em;">
 
 Assessments in this course are governed by the [Policy on Assessment of Student Learning](https://www.mcgill.ca/secretariat/files/secretariat/policy_on_assessment_of_student_learning.pdf) (PASL), which provides a set of common principles to guide the assessment of students’ learning. Also see [Faculty of Science-specific rules](https://www.mcgill.ca/science/staff/advisor-instructor/policy-assessment-student-learning-addenda) on the implementation of PASL.
 
