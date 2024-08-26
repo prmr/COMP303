@@ -64,6 +64,21 @@ Practice exercises are organized in terms of the chapter structure and are avail
 - All material covered in the textbook, lectures, and in the practice exercises is subject to assessment.
 - Here is a [sample midterm](https://github.com/prmr/COMP303/blob/2019F/Sample-Midterm.pdf). This sample is provided so that you can familiarize yourself in advance with the *exam style*. **However**, the course schedule varies slightly from section to section so **the topics covered in the sample midterm are not necessarily representative of what will be evaluated in your own midterm**.
 
+<div style="font-size:0.75em;">
+
+Assessments in this course are governed by the [Policy on Assessment of Student Learning](https://www.mcgill.ca/secretariat/files/secretariat/policy_on_assessment_of_student_learning.pdf) (PASL), which provides a set of common principles to guide the assessment of students’ learning. Also see [Faculty of Science-specific rules](https://www.mcgill.ca/science/staff/advisor-instructor/policy-assessment-student-learning-addenda) on the implementation of PASL.
+
+Legally mandated academic accommodations are handled by Student Accessibility and Achievement. For more information see https://www.mcgill.ca/access-achieve/
+
+In accord with McGill University’s [Charter of Students’ Rights](https://www.mcgill.ca/secretariat/files/secretariat/charter_of_student_rights_last_approved_october_262017.pdf), students in this course have the right to submit in English or in French written work that is to be graded. This does not apply to courses in which acquiring proficiency in a language is one of the objectives.” (Approved by Senate on 21 January 2009) 
+
+Conformément à la [Charte des droits de l’étudiant](https://www.mcgill.ca/secretariat/files/secretariat/charte_des_droits_de_etudiant_0.pdf) de l’Université McGill, chaque étudiant a le droit de soumettre en français ou en anglais tout travail écrit devant être noté, sauf dans le cas des cours dont l’un des objets est la maîtrise d’une langue. (Énoncé approuvé par le Sénat le 21 janvier 2009)
+
+McGill University values academic integrity. Therefore, all students must understand the meaning and consequences of cheating, plagiarism and other academic offences under the [Code of Student Conduct and Disciplinary Procedures](https://www.mcgill.ca/secretariat/files/secretariat/code_of_student_conduct_and_disciplinary_procedures.pdf) (Approved by Senate on 29 January 2003) (See [McGill’s guide to academic honesty](http://www.mcgill.ca/students/srr/honest/) for more information).
+
+In the event of extraordinary circumstances beyond the University’s control, the content and/or assessment tasks in this course are subject to change and students will be advised of the change.
+</div>
+
 ## Schedule
 
 See myCourses for a detailed schedule and the lab sign-up sheet.
@@ -74,4 +89,4 @@ See myCourses for a detailed schedule and the lab sign-up sheet.
 
 Unless otherwise noted, the content of this repository is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. 
 
-Copyright Martin P. Robillard 2023
+Copyright Martin P. Robillard 2024
